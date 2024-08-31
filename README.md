@@ -12,7 +12,19 @@
 * Run the Flask app using below command `python3 app.py`
 * You can also use downloaded file in `Model` Section and play with it using Jupyter Notebook.
 
-  ## ⭐Testing Images
+## ⭐Testing Images
 
 * If you do not have leaf images then you can use test images located in test_images folder
 * Each image has its corresponding disease name, so you can verify whether the model is working perfectly or not
+
+## ⭐Snippet of Web App :
+#### Main page
+<img src = "Web Page Images/Home.png"> <br>
+#### AI Engine 
+<img src = "Web Page Images/AI Engine.png"> <br>
+#### Results Page 
+<img src = "Web Page Images/.png"> <br>
+#### Supplements/Fertilizer  Store
+<img src = "Web Page Images/Market.png"> <br>
+#### Contact Us 
+<img src = "Web Page Images/Contact.png"> <br><br>
