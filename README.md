@@ -1,5 +1,7 @@
 # ⭐AI ENGINE for Plant Disease Detection 🌱🤖
-* Plant disease detection is crucial for farmers to ensure healthy crop yields. We've developed a deep learning-based system to classify leaf images into 39 different disease categories. Our model employs a convolutional neural network (CNN) architecture, built using the PyTorch framework. For training, we utilized the PlantVillage dataset, which is available on my blog.
+* Plant disease detection is crucial for farmers to ensure healthy crop yields. We've developed a deep learning-based system to classify leaf images into 39
+  different disease categories. Our model employs a convolutional neural network (CNN) architecture, built using the PyTorch framework. For training, we utilized
+  the PlantVillage dataset.
 
 ## ⭐Run Project in your Machine 💻
 * You must have **Python3.8** installed in your machine.
@@ -12,19 +14,23 @@
 * Run the Flask app using below command `python3 app.py`
 * You can also use downloaded file in `Model` Section and play with it using Jupyter Notebook.
 
+## ⭐Convolutional Neural Networks (CNNs): 
+* Convolutional Neural Networks (CNNs) are a type of deep learning architecture specifically designed for processing and analyzing image data. They are
+  particularly effective in tasks such as image classification, object detection, and image segmentation.
+
 ## ⭐Testing Images
 
 * If you do not have leaf images then you can use test images located in test_images folder
 * Each image has its corresponding disease name, so you can verify whether the model is working perfectly or not
 
 ## ⭐Snippet of Web App :
-#### Main page
+### 🔷 Main page
 <img src = "Web Page Images/Home.png"> <br>
-#### AI Engine 
+### 🔷 AI Engine 
 <img src = "Web Page Images/AI Engine.png"> <br>
-#### Results Page 
-<img src = "Web Page Images/.png"> <br>
-#### Supplements/Fertilizer  Store
+### 🔷 Results Page 
+<img src = "Web Page Images/Result.png"> <br>
+### 🔷 Supplements/Fertilizer  Store
 <img src = "Web Page Images/Market.png"> <br>
-#### Contact Us 
+### 🔷 Contact Us 
 <img src = "Web Page Images/Contact.png"> <br><br>
